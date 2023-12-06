@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pngfind.com/pngs/m/24-248816_frontend-development-front-end-development-png-transparent-png.png)
+/*[![MasterHead](https://www.pngfind.com/pngs/m/24-248816_frontend-development-front-end-development-png-transparent-png.png)*/
 <h1 align="center">Hi 👋, I'm Sudhanshu Panthri</h1>
 <h3 align="center">A passionate Student & developer from India</h3>
 <img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" alt="Image" align="right" width="400" height="400">
