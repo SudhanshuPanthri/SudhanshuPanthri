@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-p-43797ab1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudhanshu-p-43797ab1/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sudhanshuwu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudhanshuwu/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/panthrisudhanshu666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/panthrisudhanshu666" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudhanshu-p-43797ab1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-p-43797ab1/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudhanshuwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudhanshuwu" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/panthrisudhanshu666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="panthrisudhanshu666" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshupanthri&show_icons=true&locale=en" alt="sudhanshupanthri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshupanthri&" alt="sudhanshupanthri" /></p>
+
