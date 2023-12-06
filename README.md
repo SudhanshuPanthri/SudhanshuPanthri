@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Panthri</h1>
 <h3 align="center">A passionate Student & developer from India</h3>
-<img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" alt="Image" align="right" width="400" height="400">
+<img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" alt="Image" align="center" width="200" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshupanthri&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshupanthri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshupanthri" alt="sudhanshupanthri" /></a> </p>
