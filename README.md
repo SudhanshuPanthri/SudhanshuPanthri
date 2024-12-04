@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Panthri</h1>
-<h3 align="center">A passionate Student & developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" alt="Image" align="center" width="200" height="200">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshupanthri&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshupanthri" /> </p>
 
