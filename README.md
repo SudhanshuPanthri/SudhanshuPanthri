@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshupanthri" alt="sudhanshupanthri" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Next JS**
+- 🌱 I’m currently working as a software developer.
 
 - 📫 How to reach me **panthrisudhanshu666@gmail.com**
 
