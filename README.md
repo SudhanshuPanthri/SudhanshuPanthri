@@ -23,4 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshupanthri&show_icons=true&locale=en" alt="sudhanshupanthri" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshupanthri&" alt="sudhanshupanthri" /></p>
-
+<!-- <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1> -->
+## Watch a 🐍 eating my contribution graph
+<p align="center">
+  <img src="github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
