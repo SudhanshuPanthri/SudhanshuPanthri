@@ -6,7 +6,7 @@ I'm **Sudhanshu Panthri**, a passionate software developer from **New Delhi, Ind
 
 ## Skills & Technologies
 
-js,react,mongodb,cs,dotnet,express,nodejs,tailwind,git,cpp,docker,azure
+https://skillicons.dev/icons?i=js,react,mongodb,cs,dotnet,express,nodejs,tailwind,git,cpp,docker,azure&perline=8
 
 ## Top Projects
 
