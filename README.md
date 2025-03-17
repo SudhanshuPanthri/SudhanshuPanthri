@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-I'm **Sudhanshu Panthri**, a passionate software developer from **New Delhi, India**. I love building innovative solutions and exploring new technologies. Let's create something amazing together!
+I'm **Sudhanshu Panthri**, a passionate software developer from **New Delhi, India**. I love building innovative solutions and exploring new technologies.
 
 ## Skills & Technologies
 
